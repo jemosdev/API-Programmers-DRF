@@ -26,16 +26,16 @@ This project is a CRUD of Programmers in module DjangoRestFramework.
 ### **Views:**
 
 #### -Home:
-![](D:\programming\platzi\codes\flask\app\static\images\signup-taskapp.jpg)
+![](https://github.com/jemosdev/API-Programmers-DRF/blob/main/Clipboard01.jpg)
 
 #### -GET and CREATE:
-![](D:\programming\platzi\codes\flask\app\static\images\login-taskapp.jpg)
+![](https://github.com/jemosdev/API-Programmers-DRF/blob/main/Clipboard02.jpg)
 
 #### -UPDATE:
-![](D:\programming\platzi\codes\flask\app\static\images\signup-taskapp.jpg)
+![](https://github.com/jemosdev/API-Programmers-DRF/blob/main/Clipboard03.jpg)
 
 #### -DELETE:
-![](D:\programming\platzi\codes\flask\app\static\images\login-taskapp.jpg)
+![](https://github.com/jemosdev/API-Programmers-DRF/blob/main/Clipboard04.jpg)
 
 ### Acknowledgements:
 UskoKruM2010 YouTube channel

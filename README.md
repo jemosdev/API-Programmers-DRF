@@ -28,7 +28,13 @@ This project is a CRUD of Programmers in module DjangoRestFramework.
 #### -Home:
 ![](D:\programming\platzi\codes\flask\app\static\images\signup-taskapp.jpg)
 
-#### -Edition:
+#### -GET and CREATE:
+![](D:\programming\platzi\codes\flask\app\static\images\login-taskapp.jpg)
+
+#### -UPDATE:
+![](D:\programming\platzi\codes\flask\app\static\images\signup-taskapp.jpg)
+
+#### -DELETE:
 ![](D:\programming\platzi\codes\flask\app\static\images\login-taskapp.jpg)
 
 ### Acknowledgements:
